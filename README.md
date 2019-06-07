@@ -1,3 +1,3 @@
 Angular Task
 
-Six scenarios of databinding
+Six scenarios of databinding.
